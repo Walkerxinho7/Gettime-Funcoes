@@ -34,7 +34,7 @@ Gettime-Functions är ett tillägg som kapslar in SA-MPs inbyggda funktioner `ge
 
 ## Installation
 
-1. Ladda ner filen `Gettime-Functions.inc`
+1. Ladda ner filen [Gettime-Functions.inc](https://github.com/ocalasans/Anti-Ping/raw/refs/heads/main/src/Gettime-Functions.inc)
 2. Placera filen i din servers `pawno/include` mapp
 3. Inkludera filen i ditt skript:
 ```pawn
