@@ -34,7 +34,7 @@ Gettime-Functions, SA-MP'nin yerel `gettime()` ve `getdate()` fonksiyonlarını 
 
 ## Kurulum
 
-1. [Gettime-Functions.inc](https://github.com/ocalasans/Anti-Ping/raw/refs/heads/main/src/Gettime-Functions.inc) dosyasını indirin
+1. [Gettime-Functions.inc](https://github.com/ocalasans/Gettime-Functions/raw/refs/heads/main/src/Gettime-Functions.inc) dosyasını indirin
 2. Dosyayı sunucunuzun `pawno/include` klasörüne yerleştirin
 3. Scripte include dosyasını ekleyin:
 ```pawn

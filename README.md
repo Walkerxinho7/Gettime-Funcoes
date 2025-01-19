@@ -34,7 +34,7 @@ O Gettime-Functions é um include que encapsula as funções nativas `gettime()`
 
 ## Instalação
 
-1. Baixe o arquivo [Gettime-Functions.inc](https://github.com/ocalasans/Anti-Ping/raw/refs/heads/main/src/Gettime-Functions.inc)
+1. Baixe o arquivo [Gettime-Functions.inc](https://github.com/ocalasans/Gettime-Functions/raw/refs/heads/main/src/Gettime-Functions.inc)
 2. Coloque o arquivo na pasta `pawno/include` do seu servidor
 3. Inclua o arquivo no seu script:
 ```pawn
