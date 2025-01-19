@@ -34,7 +34,7 @@ Gettime-Functions is an include that encapsulates SA-MP's native `gettime()` and
 
 ## Installation
 
-1. Download the [Gettime-Functions.inc](https://github.com/ocalasans/Gettime-Functions/raw/refs/heads/main/src/Gettime-Functions.inc) file
+1. Download the [Gettime-Functions.inc](https://github.com/ocalasans/Gettime-Functions/releases/download/v1.0.2/Gettime-Functions.inc) file
 2. Place the file in your server's `pawno/include` folder
 3. Include the file in your script:
 ```pawn

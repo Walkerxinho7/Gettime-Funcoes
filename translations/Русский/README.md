@@ -34,7 +34,7 @@ Gettime-Functions - это включаемый файл, который объ�
 
 ## Установка
 
-1. Скачайте файл [Gettime-Functions.inc](https://github.com/ocalasans/Gettime-Functions/raw/refs/heads/main/src/Gettime-Functions.inc)
+1. Скачайте файл [Gettime-Functions.inc](https://github.com/ocalasans/Gettime-Functions/releases/download/v1.0.2/Gettime-Functions.inc)
 2. Поместите файл в папку `pawno/include` вашего сервера
 3. Подключите файл в вашем скрипте:
 ```pawn
